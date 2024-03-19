@@ -118,26 +118,37 @@ plt.title('Laplacian Operator')
 
 i) Using Averaging Filter
 
+![image](https://github.com/niraunjana/Implementation-of-filter/assets/119395610/91a9c651-243c-45a3-a792-f43d8adb17f9)
+
 
 
 ii) Using Weighted Averaging Filter
+
+![image](https://github.com/niraunjana/Implementation-of-filter/assets/119395610/1f5b5d12-4b26-4da7-bd87-c28bfc69b25d)
 
 
 
 iii) Using Gaussian Filter
 
+![image](https://github.com/niraunjana/Implementation-of-filter/assets/119395610/40113313-0e9e-47b7-a30f-551cdd1f7f18)
+
 
 
 iv) Using Median Filter
+
+![image](https://github.com/niraunjana/Implementation-of-filter/assets/119395610/22c77b50-e53a-46e9-92e9-804522c11931)
 
 
 ## 2. Sharpening Filters
 
 i) Using Laplacian Kernal
 
+![image](https://github.com/niraunjana/Implementation-of-filter/assets/119395610/3f182d0d-acd5-47ab-9606-284ed97c81e2)
 
 
 ii) Using Laplacian Operator
+
+![image](https://github.com/niraunjana/Implementation-of-filter/assets/119395610/10e85595-7cad-4f41-95b8-9a25fc363a29)
 
 
 ## Result:
